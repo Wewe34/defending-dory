@@ -1,0 +1,6 @@
+/* allow for no whitespace or scroll around scenes */
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
