@@ -1,4 +1,4 @@
-#Defending Dory
+# Defending Dory
 
 Desktop only web game using Phaser 3, Javascript, and HTML5.
 
