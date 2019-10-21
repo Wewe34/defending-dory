@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-import logoImg from "./assets/logo.png";
 import PreloadScene  from "./scenes/PreloadScene";
 import  LandingPage  from "./scenes/LandingPage";
 import MenuScene  from "./scenes/MenuScene";
