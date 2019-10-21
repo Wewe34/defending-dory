@@ -7,7 +7,7 @@
     "build": "webpack --config webpack/prod.js ",
     "start": "webpack-dev-server --config webpack/base.js --open",
     "heroku-prebuild": "npm install --dev",
-    "heroku-postbuild": "webpack --config webpack/prod.js"
+    "heroku-postbuild": "webpack --config webpack/base.js "
   },
   "repository": {
     "type": "git",
