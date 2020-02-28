@@ -9,7 +9,7 @@
     "heroku-prebuild": "npm install --dev",
     "heroku-postbuild": "webpack --config webpack/base.js ",
     "postinstall": "npm run build",
-    "prod": "npm run build && cp -r src dist/src && sudo nodemon server/index.js"
+    "prod": "npm run build && cp -r src dist/src"
   },
   "repository": {
     "type": "git",
